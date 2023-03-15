@@ -1,5 +1,3 @@
---BROUGHT TO YOU BY RSCRIPTS.NET--
-
 clickfling = true -- set this to false if u dont want click fling or use torso fling
 
 function rmesh(a)
